@@ -17,10 +17,10 @@
   
 | Краткое описание                                   |	Mockup иллюстрация |
 | :------------------------------------------------: | :-----------------: |
-| Информация обо всех расходах и доступных средствах | ![Image alt](https://github.com/Andrey-Zelinskiy/Money_Helper/blob/master/Main.png)
-| Информация о расходах в разделе	                   | ![Image alt](https://github.com/Andrey-Zelinskiy/Money_Helper/blob/master/Costs.png)
-| Добавление новых расходов	                         | ![Image alt](https://github.com/Andrey-Zelinskiy/Money_Helper/blob/master/Add.png)
-| Настройка предпочтений пользователя	               | ![Image alt](https://github.com/Andrey-Zelinskiy/Money_Helper/blob/master/Setting.png)
+| Информация обо всех расходах и доступных средствах | ![Image alt](https://github.com/Andrey-Zelinskiy/Money_Helper/blob/master/mockup/Main.png)
+| Информация о расходах в разделе	                   | ![Image alt](https://github.com/Andrey-Zelinskiy/Money_Helper/blob/master/mockup/Costs.png)
+| Добавление новых расходов	                         | ![Image alt](https://github.com/Andrey-Zelinskiy/Money_Helper/blob/master/mockup/Add.png)
+| Настройка предпочтений пользователя	               | ![Image alt](https://github.com/Andrey-Zelinskiy/Money_Helper/blob/master/mockup/Setting.png)
 
 ### 2.3 Характеристики пользователей
 Возрастных ограничений приложение не имеет, и подойдет для пользователей с минимальными навыками пользования платформой Android.
