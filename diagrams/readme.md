@@ -26,3 +26,12 @@
 
 #### 3.4. Выбор темы
 ![Image alt](https://github.com/Andrey-Zelinskiy/Money_Helper/blob/master/diagrams/Sequence/Sequence4.png)
+
+### 4. Class Diagram
+![Image alt](https://github.com/Andrey-Zelinskiy/Money_Helper/blob/master/diagrams/Class/ClassDiagram.png)
+
+### 5. State Diagram
+![Image alt](https://github.com/Andrey-Zelinskiy/Money_Helper/blob/master/diagrams/State/SostDiagram.png)
+
+### 6. Component Diagram
+![Image alt](https://github.com/Andrey-Zelinskiy/Money_Helper/blob/master/diagrams/Component/StructDiagram.png)
