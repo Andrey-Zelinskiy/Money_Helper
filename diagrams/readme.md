@@ -16,13 +16,16 @@
 
 ### 3. Sequence Diagrams
 #### 3.1. Добавление расхода
+![Image alt](https://github.com/Andrey-Zelinskiy/Money_Helper/blob/master/diagrams/Sequence/Sequence1.png)
 
 #### 3.2. Выбор раздела
+![Image alt](https://github.com/Andrey-Zelinskiy/Money_Helper/blob/master/diagrams/Sequence/Sequence2.png)
 
 #### 3.3. Выбор языка
-
+![Image alt](https://github.com/Andrey-Zelinskiy/Money_Helper/blob/master/diagrams/Sequence/Sequence3.png)
 
 #### 3.4. Выбор темы
+![Image alt](https://github.com/Andrey-Zelinskiy/Money_Helper/blob/master/diagrams/Sequence/Sequence4.png)
 
 ### 4. Class Diagram
 ![Image alt](https://github.com/Andrey-Zelinskiy/Money_Helper/blob/master/diagrams/Class/ClassDiagram.png)
