@@ -1,6 +1,6 @@
 ## Diagrams
 ### 1.Use cases
-![Image alt](https://github.com/Andrey-Zelinskiy/Money_Helper/blob/master/diagrams/Use%20Cases/Use%20Cases.jpg)
+![Image alt](https://github.com/Andrey-Zelinskiy/Money_Helper/blob/master/diagrams/Use%20Cases/%D0%91%D0%B5%D0%B7%D1%8B%D0%BC%D1%8F%D0%BD%D0%BD%D1%8B%D0%B9.png)
 
 #### 1.1 Добавить расходы
 
