@@ -16,6 +16,8 @@
 
 ## UML-диаграмма классов паттерна Singleton
 ![Image alt](https://github.com/Andrey-Zelinskiy/Money_Helper/blob/master/mockup/uml-singleton.jpg)
+## UML-диаграмма последовательностей паттерна Singleton
+![Image alt](https://github.com/Andrey-Zelinskiy/Money_Helper/blob/master/mockup/singleton-sequence.png)
 ## Реализация паттерна Singleton
 ### Классическая реализация Singleton
 Рассмотрим наиболее часто встречающуюся реализацию паттерна Singleton.
